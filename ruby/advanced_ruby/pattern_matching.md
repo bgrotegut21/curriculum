@@ -20,7 +20,6 @@ This section contains a general overview of topics that you will learn in this l
 - Explain the use of the pin operator.
 - Explain the use of the alternative pattern.
 - Explain how to bind matches to a variable.
-- Explain how to match against your own custom classes.
 
 ### Basics
 
